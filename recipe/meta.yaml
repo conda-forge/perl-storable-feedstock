@@ -47,4 +47,4 @@ about:
 
 extra:
   recipe-maintainers:
-    - @conda-forge/perl-packagers
+    - conda-forge/perl-packagers
